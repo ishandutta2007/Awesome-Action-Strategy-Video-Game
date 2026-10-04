@@ -48,9 +48,9 @@ Below is a breakdown of top commercial action-strategy games, including company 
 
 ## 🔓 Open-Source Projects & Engines
 
-The action-strategy genre boasts a production-proven open-source community. Below are top open-source strategy games and engines sorted by GitHub star count ⭐.
+The action-strategy genre boasts a production-proven open-source community. Below are top open-source strategy games and engines sorted by GitHub Stars_Count ⭐.
 
-| 📦 Repository & Project Name | ⭐ Stars | 📜 License | 🎯 Primary Category & Tech Stack | 💡 Key Description |
+| 📦 Repository & Project Name | ⭐ GitHub_Stars | 📜 License | 🎯 Primary Category & Tech Stack | 💡 Key Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Mindustry](https://github.com/Anuken/Mindustry)** | [<img src="https://img.shields.io/github/stars/Anuken/Mindustry?style=social&color=white" alt="Mindustry Stars"/>](https://github.com/Anuken/Mindustry/stargazers) | GPL-3.0 | Tower Defense / Factory Automation (Java/LibGDX) | Open-source sandbox tower defense & logistics hybrid; build supply lines and command attack drones. |
 | **[Godot Engine](https://github.com/godotengine/godot)** | [<img src="https://img.shields.io/github/stars/godotengine/godot?style=social&color=white" alt="Godot Stars"/>](https://github.com/godotengine/godot/stargazers) | MIT | Game Engine (C++) | Multi-platform 2D/3D open-source game engine heavily used for custom RTS and action-strategy development. |
@@ -103,7 +103,7 @@ Thank you for your support! 💖
 
 - This list is **community-curated** for educational, analytical, and archival purposes.
 - Trademarks, game titles, and brand names belong to their respective corporate owners and publishers.
-- Open-source project metrics and star counts are subject to change over time.
+- Open-source project metrics and Stars_Counts are subject to change over time.
 
 ---
 
