@@ -48,7 +48,7 @@ Below is a breakdown of top commercial action-strategy games, including company 
 
 ## 🔓 Open-Source Projects & Engines
 
-The action-strategy genre boasts a production-proven open-source community. Below are top open-source strategy games and engines sorted by GitHub Stars_Count ⭐.
+The action-strategy genre boasts a production-proven open-source community. Below are top open-source strategy games and engines sorted by GitHub_Stars_Count ⭐.
 
 | 📦 Repository & Project Name | ⭐ GitHub_Stars | 📜 License | 🎯 Primary Category & Tech Stack | 💡 Key Description |
 | :--- | :--- | :--- | :--- | :--- |
